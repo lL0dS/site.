@@ -1,0 +1,51 @@
+h1 {
+    color:green;
+}
+
+.a {
+    color:red;
+    display: flex;   
+    justify-content: center;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+}
+
+.M a{
+    color:rgb(236, 235, 235);
+}
+
+.M:hover a{
+    color:black;
+}
+
+a:link{
+    text-decoration:none;
+}
+
+.M{
+    display:flex ;
+    justify-content: baseline;
+}
+
+.Sim{
+    color:blue;
+}
+
+.Sim:hover a{
+    color:red;
+}
+
+.Nao{
+    color:blue;
+}
+
+.Nao:hover a{
+    color:red;
+}
+
+.ponto{
+    color:white;
+}
